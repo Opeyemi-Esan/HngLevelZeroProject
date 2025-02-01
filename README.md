@@ -6,11 +6,9 @@ This project is a simple public API built using .NET Core. The API provides data
 ## Features
 - .NET Core Web API
 - Simple GET endpoints
-- Swagger API documentation
 
 ## Technologies Used
 - .NET Core
-- Swagger for API documentation
 
 ## Setup Instructions
 
@@ -22,7 +20,7 @@ Ensure you have the following installed:
 
 ### **Steps to Run Locally**
 1. Clone the repository:
-   git clone https://github.com/Opeyemi-Esan/hng-level-zero-project.git
+   https://github.com/Opeyemi-Esan/HngLevelZeroProject.git
    cd hng-level-zero-project
 
 2. Restore dependencies:
@@ -31,11 +29,6 @@ Ensure you have the following installed:
 
 3. Run The API:
    dotnet run
-
-4. Access the API documentation via Swagger:
-   https://localhost:7045/api/info
-
-
 
 API Documentation
 
@@ -51,7 +44,7 @@ Endpoint
        "id": 1,
        "email": "tolulopejossyp@gmail.com",
        "current_time": "2025-01-30720:30:00Z",
-       “github_url”: “https://github.com/Opeyemi-Esan/hng-level-zero-project/tree/main”
+       “github_url”: “https://github.com/Opeyemi-Esan/HngLevelZeroProject”
      }
    ]
    
